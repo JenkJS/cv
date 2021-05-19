@@ -74,8 +74,13 @@
 
 - 2021 The Rolling Scopes School
   - The Rolling Scopes School, Junior Software Engineer в области Front-end / JavaScript.
+
+[![The Rolling Scope School](.\assets\trss.png "certificate")](https://app.rs.school/certificate/63gyipsq)
+
 - 2020 БелХард Академия
   - БелХард Академия, Frontend-разработчик
+
+![The Rolling Scope School](.\assets\belhard.jpg "certificate")
 
 ---
 
