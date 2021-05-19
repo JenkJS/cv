@@ -46,7 +46,7 @@
 
 - React.js / Hooks / React Router /json-server / axios /classnames /
 
-![Todo](.\assets\todo.png)
+![Todo](.\assets\toDo.png)
 
 ---
 
