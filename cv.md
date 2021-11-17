@@ -39,9 +39,10 @@
   ### Frontend developer
 
   07.06.2021 - н.в.
+  
   ## Стек
 
-  JS / TS / REACT/ REDUX /VUE / VUEX / 
+  JS / TS / REACT/ REDUX /VUE / VUEX /
 
 ---
 ### Мои учебные проекты
