@@ -1,6 +1,6 @@
 # Мацкевич Евгений
 
-## React.js Frontend developer
+## Frontend developer
 
 ### Обо мне
 
@@ -13,6 +13,8 @@
   - Redux
     - Redux Thunk
   - json-server / axios / classnames
+- Vue.js
+  - VUEX
 - ESLint, Prettier
 - SCSS / styled-components / CSS Modules / Stylus / PostCSS
 - Webpack
@@ -25,11 +27,23 @@
 
 - Git / GitHub / GitLab
 - BEM (CSS)
+- SCSS
+- CSS Module
 - JSON
 - API
 
 ---
+## Опыт работы:
 
+## BEAM
+  ### Frontend developer
+
+  07.06.2021 - н.в.
+  ## Стек
+
+  JS / TS / REACT/ REDUX /VUE / VUEX / 
+
+---
 ### Мои учебные проекты
 
 [PizzaStore](https://pizzas-store.herokuapp.com)
@@ -52,7 +66,7 @@
 
 Командный проект: игра - Clone ["Clicker Heroes"](https://doleur.github.io/rsclone/) выполнялся в рамках финального таска RSSchool
 
--JS/webpack/bootstrap/AudioApi/SCSS
+- JS/webpack/bootstrap/AudioApi/SCSS
 
 ![cloneHeroes](.\assets\cloneHeroes.png "Clicker Heroes")
 
