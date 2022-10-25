@@ -1,29 +1,53 @@
-# Мацкевич Евгений
+# Matskevich Yauheni
 
 ## Frontend developer
 
-### Обо мне
+---
+
+## Contact
+
+- **Tel:** +375336656243
+- **E-mail:** <jenkjobs@gmail.com> <jenkjobs@yandex.ru>
+- **[Telegram](https://t.me/JenkDi)** || **[Twitter](https://twitter.com/Jenk_JS)**
+- [GitHub](https://github.com/JenkJS)
+- [LinkedIn](https://www.linkedin.com/in/jenkjs/)
+
+Summary
+
+---
+I am frontend developer have 3 years experience and 1,5 years commercial experience.  I am looking new position frontend developer in your team. I am a team player, also as and might alone. I will be happy become part your of the team.
+I am learning the backend.
+
+---
+## Skills
 
 #### Frontend
 
 - HTML/CSS
 - TypeScript, JavaScript (ES6+)
 - ReactJS
-  - React Router
+  - React Router v6
   - Redux
     - Redux Thunk
-  - json-server / axios / classnames
+    - Redux Toolkit
+    - Redux Saga
+  - json-server / axios / classnames / linaria / react-hook-form
+- Next.js
 - Vue.js
   - VUEX
+- UI Library
+  - Ant Design
+  - Material UI
+- Rest API
 - ESLint, Prettier
 - SCSS / styled-components / CSS Modules / Stylus / PostCSS
 - Webpack
 
 #### Backend
-
-- на стадии изучения Node.js
-
-#### Другие скиллы
+ - NodeJS
+   - Express
+   - NestJS - in process learning
+#### Other skills
 
 - Git / GitHub / GitLab
 - BEM (CSS)
@@ -31,93 +55,96 @@
 - CSS Module
 - JSON
 - API
-
+- Figma / Zeplin / Photoshop
 ---
-## Опыт работы:
-
+## Experience:
 ## BEAM
   ### Frontend developer
 
-  07.06.2021 - н.в.
-  
-  ## Стек
+  07.06.2021 - at this time.
 
-  JS / TS / REACT/ REDUX /VUE / VUEX /
+  I have been creating the user interface (UI) for smart-contract. Got data from blockchain,  got / send data smart-contract(sync with smart-contract).
+  ## Project
+  ### Introspect - UI for Request in smart-contract.
+
+  [Introspect](https://sixstringer91.github.io/beam-dapps/) |  [Git](https://github.com/BeamMW/beam-dapps/tree/main/introspect) 
+
+### Gem-puzzle - game on smart-contract.
+
+  Gem-puzzle |  [Git](https://github.com/BeamMW/beam-dapps/tree/main/gem_puzzle_fe)
+
+#### Stack Technology
+
+TS / React/ Redux-Thunk / SCSS
+
+  ### SOURC3 -  SOURC3 is a Web3-native, decentralized platform for software development.
+
+  [Sourc3](https://app.sourc3.xyz) |  [Git](https://github.com/SOURC3XYZ)
+  
+  #### Stack Technology
+
+JS / TS / React/ Redux-thunk / React-hook-form / Styled-components / Ant Design / C++ / Python / Electron
+
+  ### SOURC3 Web Client
+
+  [SOURC3 Web Client](https://app.sourc3.xyz/download) |  [Git](https://github.com/SOURC3XYZ/Sourc3-Web-Client)
+
+#### Stack Technology
+
+TS / React/ Redux-Sage / linaria
 
 ---
-### Мои учебные проекты
+### Pet Project:
 
 [PizzaStore](https://pizzas-store.herokuapp.com)
 
-[![Git](.\assets\GitHub-Mark-32px.png "project on git")](https://github.com/JenkJS/pizza-store)
 
-- React.js / Hooks / React Router / Redux / Redux thunk /json-server / axios /classnames /
-
-![scr](.\assets\pizzaStore.png)
+React.js / Hooks / React Router / Redux / Redux thunk /json-server / axios /classnames /
 
 ---
 
-[toDo](https://github.com/JenkJS/todo) ... in process
+[toDo](https://github.com/JenkJS/todo)
 
-- React.js / Hooks / React Router /json-server / axios /classnames /
-
-![Todo](.\assets\toDo.png)
+React.js / Hooks / React Router /json-server / axios /classnames /
 
 ---
 
-Командный проект: игра - Clone ["Clicker Heroes"](https://doleur.github.io/rsclone/) выполнялся в рамках финального таска RSSchool
+Finally Team project in RSSchool: Game - Clone ["Clicker Heroes"](https://doleur.github.io/rsclone/)
 
-- JS/webpack/bootstrap/AudioApi/SCSS
-
-![cloneHeroes](.\assets\cloneHeroes.png "Clicker Heroes")
+JS/webpack/bootstrap/AudioApi/SCSS
 
 ---
 
-## Образование
+## Education
 
-### Высшее образование
+### Higher education
 
-- 2010 - 2016 Минский институт управления
+- 2010 - 2016 Minsk Institute of Management
 
-  - Инженерно-информационный факультет
+  - Faculty of Engineering and Information
 
-    - Инженер-программист
+    - Software Engineer
 
 ---
 
-### Курсы
+### Courses
 
 - 2021 The Rolling Scopes School
-  - The Rolling Scopes School, Junior Software Engineer в области Front-end / JavaScript.
+  - The Rolling Scopes School, Junior Software Engineer Front-end / JavaScript.
 
-[![The Rolling Scope School](.\assets\trss.png "certificate")](https://app.rs.school/certificate/63gyipsq)
+[Certificate](https://app.rs.school/certificate/63gyipsq)
 
-- 2020 БелХард Академия
-  - БелХард Академия, Frontend-разработчик
-
-![The Rolling Scope School](.\assets\belhard.jpg "certificate")
+- 2020 BelHard Academy
+  - BelHard Academy, Frontend-developer
 
 ---
 
-### Языки
+### Language
 
-Белорусский — Родной
+Belarusian — native
 
-Английский — A1
+English — A2
 
-Русский — C1
+Russian — C1
 
----
 
-За 10 лет работы на Минск-арене вырос с электрика до начальника отдела, тем самым достигнув потолка в развитии. Поэтому сейчас решил двигаться дальше и выбрал самую перспективную, на мой взгляд, it -сферу.
-Остановился на Frontend`е потому, что нравиться визуальщина. Возможность экспериментировать, видеть сразу результат и получать красивый UI.
-
----
-
-## Контакты
-
-- **Телефон:** +375336656243
-- **E-mail:** <jenkjobs@gmail.com> <jenkjobs@yandex.ru>
-- **[Telegram](https://t.me/JenkDi)** || **[Twitter](https://twitter.com/Jenk_JS)**
-- [GitHub](https://github.com/JenkJS)
-- [LinkedIn](https://www.linkedin.com/in/jenkjs/)
